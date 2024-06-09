@@ -1,4 +1,4 @@
-# nos
+# nOS
 nOS is just a distro I made for a couple reasons listed below.
 
 - I can stop repeating so many steps to setup my config
